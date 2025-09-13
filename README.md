@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @larimar1212
+- 👋 Hi, I’m @larimar1212, Larimar Fondeur 
 - 👀 I’m interested in ... computer science
 - 🌱 I’m currently learning ... javascript, HTML, C++
 - 💞️ I’m looking to collaborate on ...
